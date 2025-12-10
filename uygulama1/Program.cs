@@ -32,7 +32,7 @@ namespace ConsoleApp10
                 }
                 else
                 {
-                    Console.WriteLine("----------------------\nTebrikler oyunu kazandınız!\nToplam Tur Sayısı: " + tur);
+                    Console.WriteLine("----------------------\nTebrikler oyunu kazandınız!!!!\nToplam Tur Sayısı: " + tur);
                     oyun = true;
                 }
             }
